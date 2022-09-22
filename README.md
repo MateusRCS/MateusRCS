@@ -18,10 +18,6 @@
 ###
 
 
-    <img src="https://raw.githubusercontent.com/mateusrcs/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
 <h4 align="left">Tecnologias e linguagens de programação com as quais tenho experiência:</h4>
@@ -35,16 +31,6 @@
 
 ###
 
-<h4 align="left">Tecnologias e linguagens de programação que estou estudando:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-</div>
 
 ###
 
